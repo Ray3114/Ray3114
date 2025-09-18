@@ -9,3 +9,7 @@
 Ray3114/Ray3114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Projects
+
+- [Offline Sound Recognition](sound_recognition/README.md): Python script for MacBook offline speech recognition using Vosk small models.
